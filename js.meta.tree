@@ -1,2 +1,3 @@
+pack eval git \https://github.com/hyoo-ru/eval.js.hyoo.ru.git
 pack perf git \https://github.com/hyoo-ru/perf.js.hyoo.ru.git
 pack sandbox git \https://github.com/hyoo-ru/sandbox.js.hyoo.ru.git
